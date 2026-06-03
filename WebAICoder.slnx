@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmbeddingService/EmbeddingService.csproj" Id="8a6c484e-2241-43ce-a75f-2c7e2b31087d" />
+  <Project Path="WebAICoder/WebAICoder.csproj">
+    <Deploy />
+  </Project>
+</Solution>

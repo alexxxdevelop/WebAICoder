@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHFh+R0+TQM=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Me\\WebAICoder\\EmbeddingService\\EmbeddingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fuck\\.nuget\\packages\\elbruno.huggingface.downloader\\0.6.0\\elbruno.huggingface.downloader.0.6.0.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\elbruno.localembeddings\\1.4.6\\elbruno.localembeddings.1.4.6.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.4.1\\microsoft.extensions.ai.abstractions.10.4.1.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.5\\microsoft.extensions.configuration.binder.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.5\\microsoft.extensions.diagnostics.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.5\\microsoft.extensions.diagnostics.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.http\\10.0.5\\microsoft.extensions.http.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.logging\\10.0.5\\microsoft.extensions.logging.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.options\\10.0.5\\microsoft.extensions.options.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.5\\microsoft.extensions.options.configurationextensions.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.24.4\\microsoft.ml.onnxruntime.1.24.4.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.24.4\\microsoft.ml.onnxruntime.managed.1.24.4.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.ml.tokenizers\\2.0.0\\microsoft.ml.tokenizers.2.0.0.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\system.numerics.tensors\\10.0.5\\system.numerics.tensors.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

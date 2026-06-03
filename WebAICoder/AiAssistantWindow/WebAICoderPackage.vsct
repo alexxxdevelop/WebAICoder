@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<Extern href="stdidcmd.h"/>
+	<Extern href="vsshlids.h"/>
+	<Symbols>
+		<GuidSymbol name="guidAiAssistantWindowPackage" value="{15667178-37a4-4818-8811-ad836ef1818f}"/>
+		<GuidSymbol name="guidAiAssistantWindowCommandPackageCmdSet" value="{231ecaa3-cca4-477b-90f4-14cc2271870b}">
+			<IDSymbol name="MyMenuGroup" value="0x1020" />
+			<IDSymbol name="AiAssistantWindowCommandId" value="0x0100" />
+		</GuidSymbol>
+	</Symbols>
+	<Commands package="guidAiAssistantWindowPackage">
+		<Groups>
+			<Group guid="guidAiAssistantWindowCommandPackageCmdSet" id="MyMenuGroup" priority="0x0600">
+				<Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>
+			</Group>
+		</Groups>
+		<Buttons>
+			<Button guid="guidAiAssistantWindowCommandPackageCmdSet" id="AiAssistantWindowCommandId" priority="0x0100" type="Button">
+				<Parent guid="guidAiAssistantWindowCommandPackageCmdSet" id="MyMenuGroup" />
+				<Strings>
+					<ButtonText>AI Assistant Window</ButtonText>
+					<CommandName>AI Assistant Window</CommandName>
+				</Strings>
+			</Button>
+		</Buttons>
+	</Commands>
+</CommandTable>
