@@ -1,4 +1,5 @@
 Appointment
+
 An intelligent IDE assistant designed to speed up the development and refactoring process. The project bridges the gap between getting advice from the language model and manually applying it by automating code edits based on the context of the entire solution.
 
 Main features
